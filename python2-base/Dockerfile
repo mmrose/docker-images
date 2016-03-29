@@ -11,6 +11,7 @@ RUN apt-get update && apt-get install -y \
     libpq-dev \
     libxml2-dev \
     libxslt1-dev \
+    python-dev \
     python-minimal \
     python-pip \
 && rm -rf /tmp/* /var/tmp/* \
