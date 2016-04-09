@@ -1,4 +1,3 @@
-sic setup
 FROM philcryer/min-jessie:latest
 MAINTAINER Martin Mrose <github@penthranet.de>
 
