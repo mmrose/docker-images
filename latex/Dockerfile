@@ -1,5 +1,5 @@
 # basic setup
-FROM philcryer/min-jessie:latex
+FROM philcryer/min-jessie:latest
 MAINTAINER Martin Mrose <github@penthranet.de>
 
 RUN apt-get update
